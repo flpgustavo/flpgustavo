@@ -2,6 +2,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/flpgustavo/flpgustavo/output/snake.svg" alt="Snake animation" />
+
+###
+
 <p align="left">Sou um desenvolvedor apaixonado por tecnologia e por criar soluções que realmente fazem diferença no dia a dia.<br><br>Tenho experiência em backend, frontend, automação e integração de sistemas, sempre buscando unir praticidade, performance e boas práticas de desenvolvimento.<br><br>Atuo construindo desde scripts no Google Apps Script para automatizar processos em empresas até APIs robustas em Node.js, NestJS e Laravel, integradas a bancos de dados relacionais e não relacionais.<br><br>Também desenvolvo interfaces modernas e funcionais com React, Next.js, Material UI e TailwindCSS, além de estruturar ambientes em Docker e Portainer para garantir escalabilidade.<br><br>Costumo resolver problemas como:<br><br>- Automação de relatórios, documentos e planilhas<br><br>- Integração de sistemas com APIs externas<br><br>- Desenvolvimento de painéis administrativos e dashboards<br><br>- Criação de plataformas web e e-commerces personalizados<br><br>- Estruturação de fluxos automatizados com ferramentas de automação<br><br>Meu foco é sempre entregar soluções que otimizem processos, melhorem a experiência do usuário e reduzam o trabalho manual. 🚀</p>
 
 ###
@@ -55,12 +59,9 @@
 ###
 
 <div align="center">
+  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=flpgustavo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-
+  <img src="https://streak-stats.demolab.com?user=flpgustavo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/flpgustavo/flpgustavo/output/snake.svg" alt="Snake animation" />
-
-###
+</div>
