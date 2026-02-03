@@ -6,8 +6,21 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor apaixonado por tecnologia e por criar soluções que realmente fazem diferença no dia a dia.<br><br>Tenho experiência em backend, frontend, automação e integração de sistemas, sempre buscando unir praticidade, performance e boas práticas de desenvolvimento.<br><br>Atuo construindo desde scripts no Google Apps Script para automatizar processos em empresas até APIs robustas em Node.js, NestJS e Laravel, integradas a bancos de dados relacionais e não relacionais.<br><br>Também desenvolvo interfaces modernas e funcionais com React, Next.js, Material UI e TailwindCSS, além de estruturar ambientes em Docker e Portainer para garantir escalabilidade.<br><br>Costumo resolver problemas como:<br><br>- Automação de relatórios, documentos e planilhas<br><br>- Integração de sistemas com APIs externas<br><br>- Desenvolvimento de painéis administrativos e dashboards<br><br>- Criação de plataformas web e e-commerces personalizados<br><br>- Estruturação de fluxos automatizados com ferramentas de automação<br><br>Meu foco é sempre entregar soluções que otimizem processos, melhorem a experiência do usuário e reduzam o trabalho manual. 🚀</p>
+## Desenvolvedor Full-Stack
 
+Experiência em backend, frontend, automação e integração de sistemas. Foco em soluções escaláveis, performáticas e alinhadas a boas práticas de desenvolvimento.
+
+### O que eu faço
+
+Projeto e desenvolvo APIs robustas, interfaces modernas e sistemas de automação, desde scripts em Google Apps Script até plataformas web completas. Estruturo ambientes containerizados para garantir escalabilidade e eficiência operacional.
+
+- Automação de relatórios, documentos e planilhas
+- Integração de sistemas via APIs externas
+- Desenvolvimento de painéis administrativos e dashboards
+- Plataformas web e e-commerces personalizados
+- Estruturação de fluxos automatizados
+
+---
 ###
 
 <h3 align="left">🌐 Redes sociais</h3>
